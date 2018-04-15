@@ -3,13 +3,67 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="OK!!!"
-        tools:layout_editor_absoluteX="146dp"
-        tools:layout_editor_absoluteY="193dp" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="795dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="28dp"
+        >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="581dp"
+                android:layout_height="match_parent"
+                android:columnCount="2"
+                android:orientation="horizontal"
+                android:rowCount="1">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="174dp"
+                    android:layout_height="124dp"
+                    android:gravity="center"
+                    android:text="Aluno: "
+                    android:textSize="20dp" />
+
+
+                <EditText
+                    android:id="@+id/te_aluno"
+                    android:layout_width="291dp"
+                    android:layout_height="124dp"
+                    android:ellipsize="start"
+                    android:gravity="left|fill_vertical"
+                    android:hint="Nome do Aluno"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </GridLayout>
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp">
+
+            <Button
+                android:id="@+id/salvar"
+                android:layout_width="146dp"
+                android:layout_height="51dp"
+                android:text="SALVAR"
+                tools:layout_editor_absoluteX="188dp"
+                tools:layout_editor_absoluteY="335dp" />
+        </TableRow>
+
+    </TableLayout>
+
+
 </android.support.constraint.ConstraintLayout>

@@ -24,7 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="layouts.guilherme.activities1.AddStudent" />
+        <activity android:name="layouts.guilherme.activities1.AddStudent" >
+        </activity>
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
