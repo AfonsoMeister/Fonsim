@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="match_parent"
+        android:layout_height="346dp"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/round_china"
+        android:scaleType="fitCenter"
+        android:src="@drawable/china"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="356dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="match_parent"
+        android:layout_height="346dp"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/round_australia"
+        android:scaleType="fitCenter"
+        android:src="@drawable/australia"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints"
+        />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="173dp"
+        android:layout_height="101dp"
+        android:gravity="center"
+        android:text="Australia"
+        android:textColor="#ffffff"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="183dp"
+        tools:layout_editor_absoluteY="115dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="173dp"
+        android:layout_height="101dp"
+        android:gravity="center"
+        android:text="China"
+        android:textColor="#ffffff"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="214dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+
+</android.support.constraint.ConstraintLayout>

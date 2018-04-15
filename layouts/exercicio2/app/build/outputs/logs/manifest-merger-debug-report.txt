@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elder/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3470730c6f1554c3cfafc25f9557a774/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/693a9205160de59fd3d454c2ab193b71/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elder/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3470730c6f1554c3cfafc25f9557a774/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elder/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3470730c6f1554c3cfafc25f9557a774/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/693a9205160de59fd3d454c2ab193b71/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/693a9205160de59fd3d454c2ab193b71/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:10:9-40
+activity#layouts.guilherme.exercicio2.MainActivity
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elder/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3470730c6f1554c3cfafc25f9557a774/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elder/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3470730c6f1554c3cfafc25f9557a774/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/693a9205160de59fd3d454c2ab193b71/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/elder/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/693a9205160de59fd3d454c2ab193b71/AndroidManifest.xml:20:5-43
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		ADDED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/src/main/AndroidManifest.xml

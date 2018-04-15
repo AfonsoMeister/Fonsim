@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    >
+
+  <TextView
+        android:id="@+id/textView"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#FFFF00"
+        android:gravity="center"
+        android:text="YELLOW"
+        tools:layout_editor_absoluteX="539dp"
+        tools:layout_editor_absoluteY="0dp"
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#FFA500"
+        android:gravity="center"
+        android:text="ORANGE"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="269dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:background="#EE82EE"
+        android:gravity="center"
+        android:text="VIOLET"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="130dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#4B0082"
+        android:gravity="center"
+        android:text="INDIGO"
+        tools:layout_editor_absoluteX="365dp"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#0000FF"
+        android:gravity="center"
+        android:text="BLUE"
+        tools:layout_editor_absoluteX="269dp"
+        tools:layout_editor_absoluteY="62dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#008000"
+        android:gravity="center"
+        android:text="GREEN"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:background="#FF0000"
+        android:gravity="center"
+        android:text="RED"
+        />
+
+
+</android.support.constraint.ConstraintLayout>

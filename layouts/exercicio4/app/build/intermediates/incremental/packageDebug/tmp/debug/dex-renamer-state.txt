@@ -1,0 +1,7 @@
+#Mon Apr 09 06:57:34 BRT 2018
+base.0=/media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/layouts/exercicio4/app/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/layouts/exercicio4/app/build/intermediates/transforms/dexMerger/debug/12

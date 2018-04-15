@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/elder/f6eba379-3e87-40ff-b195-3e498a0f805e/shared/projetos/Apps/guilherme/exercicio2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/elder/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/ff4dc98103bb89ef317b5790a94a6e0c/res/values-h720dp/values-h720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endColumns": "66",
+                        "endOffsets": "356"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

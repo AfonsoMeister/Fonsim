@@ -1,0 +1,28 @@
+Layouts - Execercicios
+1 - Faça um exemplo [exe_01.png] que siga a estrutura da figura usando:
+i. LinearLayout
+ii. GridLayout
+iii. TableLayout
+
+2 - Faça uma app que exiba um layout como mostra a figura[exe_02.png] a seguir, use relativeLayout
+
+3 - Faça um app com o nome dos países centralizados no meio e com uma imagem de background e bordas arredondadas, vide [exe_002.png]. Use CardView
+
+4 - Crie um app com um layout que incorpore todos estes feitos até aqui. Use Scroll Viewer para visualizar todos
+
+5 Faça uma tela igual a tela seginte [exe_05.png] usando ConstraintLayout
+
+
+Activities e Intents - Exercicio
+
+1 - Faça uma Activity comum ListView ( MainActivity) de Students( listando apenas os nomes) com um botão de adicionar novo aluno, este botão chamará outra activity (FormStudentActivity) que tem o formulario para adicionar um Student.
+
+2 - Pesquise sobre a função onCreateContextMenu() e faça com na MainActivity, na listagem dos alunos o botão em um aluno apareça as seguintes opçoes.
+- Ligar para o Aluno
+- Mandar SMS para o aluno
+- Ver Localização no mapa
+- Acessar site do aluno
+
+OBS: Estudar sistemas de permissões do Android
+
+https://developer.android.com/guide/topics/security/permissions.html?hl=pt-br

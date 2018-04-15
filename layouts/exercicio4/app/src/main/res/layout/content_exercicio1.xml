@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TEXT"
+            android:textSize="35dp"
+            />
+
+    </LinearLayout>
+
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="249dp"
+        android:columnCount="2"
+        android:orientation="horizontal"
+        android:rowCount="2"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="126dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="291dp"
+            android:layout_height="124dp"
+            android:gravity="center"
+            android:text="TEXT"
+            android:textSize="35dp" />
+
+
+        <EditText
+            android:layout_width="291dp"
+            android:layout_height="124dp"
+            android:ellipsize="start"
+            android:gravity="center"
+            android:hint="EDITTEXT"
+            android:inputType="text"
+            android:singleLine="true"
+            android:textSize="35dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="291dp"
+            android:layout_height="124dp"
+            android:gravity="center"
+            android:text="TEXT"
+            android:textSize="35dp" />
+
+        <EditText
+            android:layout_width="291dp"
+            android:layout_height="124dp"
+            android:ellipsize="start"
+            android:gravity="center"
+            android:hint="EDITTEXT"
+            android:inputType="text"
+            android:singleLine="true"
+            android:textSize="35dp" />
+
+    </GridLayout>
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="181dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="388dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="620dp"
+                android:layout_height="112dp"
+                android:text="BUTTON"
+                android:textSize="35dp" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></TableRow>
+
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>
